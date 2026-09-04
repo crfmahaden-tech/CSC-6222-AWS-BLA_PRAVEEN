@@ -388,7 +388,7 @@ These notes will be updated as I continue preparing for AWS certification and co
 
 ## Author
 
-**Rohith Kumar Seemakurthi**
+**PRAVEEN**
 
 AWS Certification Project  
 Cloud Computing and AWS Learning Journey
