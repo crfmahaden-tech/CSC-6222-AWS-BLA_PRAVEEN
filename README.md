@@ -165,7 +165,7 @@ My future goals include:
 
 ## Author
 
-**Rohith Kumar Seemakurthi**
+**Praveen Mahadeva**
 
 Graduate Student | Cloud Computing | Artificial Intelligence | AWS Technologies
 
