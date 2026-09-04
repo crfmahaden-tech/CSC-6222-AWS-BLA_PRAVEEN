@@ -185,7 +185,7 @@ This reflection will be updated as I continue my AWS learning and certification 
 
 ## Author
 
-**Rohith Kumar Seemakurthi**
+**PRAVEEN**
 
 AWS Certification Project  
 Cloud Computing | AWS | Artificial Intelligence
