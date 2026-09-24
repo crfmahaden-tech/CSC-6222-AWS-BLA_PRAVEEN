@@ -62,6 +62,19 @@ The Stack is implemented using a static array.
 
 The `top` variable keeps track of the current top position of the stack.
 
+
+youtube links
+
+
+Stack  -----    https://youtu.be/zOCSDwzzhtE
+Quue ------  https://youtu.be/6muGupyn_ac
+
+Binary Tree & Binary Search ----- https://youtu.be/RsudoS1np9o
+Build a binary Search Tree --- https://youtu.be/7SFU3kOtXwM
+RELWD----- https://youtu.be/phSE3pDUwZs
+Tree--- https://youtu.be/jnamQ7gA8b4
+
+
 Example:
 
 ```text
