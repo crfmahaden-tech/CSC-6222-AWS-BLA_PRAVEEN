@@ -326,6 +326,9 @@ Replace these placeholders with the actual public links before submitting the re
 
 ## 18. References
 
+<img width="2014" height="1114" alt="image" src="https://github.com/user-attachments/assets/96ab0719-ff03-4930-869f-a0d3cf33dfdc" />
+
+
 1. cppreference.com — C++ language and standard library reference: https://en.cppreference.com/
 2. Open Data Structures — Data structures and Binary Search Trees: https://opendatastructures.org/
 3. GNU Compiler Collection — GCC documentation: https://gcc.gnu.org/onlinedocs/
