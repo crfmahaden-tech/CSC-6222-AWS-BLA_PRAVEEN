@@ -112,7 +112,7 @@ https://youtu.be/5-Vd0tIE54Q
 My LinkedIn updates document my AWS learning activities, technical presentations, and professional development throughout the certification project.
 
 **LinkedIn Post Link:**  
-[[Add LinkedIn Post Link Here]](https://www.linkedin.com/in/nagajayamadhu-praveen-mahadeva-a0aa74350/recent-activity/all/)
+https://www.linkedin.com/in/nagajayamadhu-praveen-mahadeva-a0aa74350/recent-activity/all/
 
 ---
 
